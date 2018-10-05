@@ -1,3 +1,4 @@
 build/
 .idea/
 *.pyc
+conf2.py
