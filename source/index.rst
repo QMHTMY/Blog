@@ -10,7 +10,9 @@
    :maxdepth: 2
    :caption: Contents:
 
-   newyear
    start
    english
+   newyear
+   2017note
+   2018note
 
