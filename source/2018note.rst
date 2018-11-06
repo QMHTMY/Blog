@@ -1215,3 +1215,7 @@
 **2018.11.05** UESTC Mon 
     (1) 处理<<Factfulness>>封面图片 ---30m 
     (#) 处理<<Factfulness>>译文 ---6.5h 
+    (#) 阅读<<Factfulness>> ---1h
+**2018.11.06** UESTC Tue 
+    (1) 阅读<<Factfulness>> ---3h30m
+    (#) 处理<<Factfulness>>译文 ---6.5h 
