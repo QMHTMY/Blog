@@ -1268,3 +1268,4 @@
     (#) 查找Python自动化书籍并转换为epub格式 ---30m
     (#) 写作文Introduction ---30m
     (#) 处理北斗报告 ---30m
+    (#) 处理<<Factfulness>>译文 ---3h20m
