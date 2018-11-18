@@ -2,3 +2,4 @@ build/
 .idea/
 *.pyc
 conf2.py
+require.txt
