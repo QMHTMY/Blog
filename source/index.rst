@@ -13,6 +13,7 @@
    start
    culture_1
    english
+   hardwords
    readbooks
    2017note
    2018note
