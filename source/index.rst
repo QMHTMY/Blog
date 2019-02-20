@@ -14,6 +14,7 @@
    culture_1
    english
    hardwords
+   newwords
    readbooks
    2017note
    2018note
