@@ -15,7 +15,7 @@
    english
    newwords
    readbooks
+   annualevents
    2017note
    2018note
    2019note
-   annualevents
