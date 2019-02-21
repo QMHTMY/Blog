@@ -18,5 +18,4 @@
    2017note
    2018note
    2019note
-   2018events
-   2019events
+   annualevents
