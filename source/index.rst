@@ -12,6 +12,7 @@
 
    start
    culture_1
+   preface_1
    english
    newwords
    readbooks
