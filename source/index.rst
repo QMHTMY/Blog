@@ -16,7 +16,11 @@
    english
    newwords
    readbooks
+   reports
+   nightdreams
+   dayweather
    annualevents
+   expenditure
    2017note
    2018note
    2019note
