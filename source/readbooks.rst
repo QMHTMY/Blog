@@ -1,7 +1,7 @@
 年度阅读书单 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-已阅读过的书籍(共100本)
+已阅读过的书籍(共102本)
 -------------------------------------------
 **2019・02・20记录**
     (1) 金瓶梅                      --王汝梅
@@ -98,6 +98,8 @@
     (#) 经济学                      --萨缪尔森
     (#) 经济发展理论                --熊彼特
     (#) 资本论                      --卡尔・马克思
+    (#) The TeX book                --Donald E. Knuth
+    (#) LaTeX Tutorials             --Indian TeX Users Group
     (#) Django 2 by example         --Antonio Mele
     (#) Architects of intelligence  --Martin Ford
     (#) The Old Man and The Sea     --Ernest Hemingway
@@ -177,7 +179,7 @@
     (#) Who moved my cheese         --斯宾塞・约翰逊
     (#) Lady Chatterley's Lover     --D・H・Lawrence
 
-2019年年度书单(共32本)
+2019年年度书单(共34本)
 -------------------------------------------
 **2019・02・20记录**
     (1) 金瓶梅                      --王汝梅
@@ -210,5 +212,7 @@
     (#) 相对论的意义                --阿尔伯特・爱因斯坦
     (#) 三体                        --刘慈欣
     (#) 重返美丽新世界              --阿道司・赫胥黎
+    (#) The TeX book                --Donald E. Knuth
+    (#) LaTeX Tutorials             --Indian TeX Users Group
     (#) Architects of intelligence  --Martin Ford
     (#) Django 2 by example         --Antonio Mele
