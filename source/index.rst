@@ -23,4 +23,3 @@
    2017note
    2018note
    2019note
-   mysql_migrate
