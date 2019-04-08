@@ -13,6 +13,7 @@
    start
    culture_1
    preface_1
+   watched
    newwords
    readbooks
    reports
