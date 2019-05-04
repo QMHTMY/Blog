@@ -54,4 +54,7 @@
 	(1) 来自《华杉讲透孙子兵法》九变篇-我自己给自己洒点无伤大雅的污垢，不要那么刺眼，作为一种避祸之道。
 **侥幸检查**   
 	(1) 来自《华杉讲透孙子兵法》行军篇-做事前判断自己有没有侥幸心理。
-
+**“verum ipsum factum”即“理解来自实践**
+    (1) 意大利语，来自From Power Up to Bash(http://users.cecs.anu.edu.au/~okeefe/p2b/chinese/power2bash.html)
+**颟顸**
+    (1) 来自《吾国与吾民》赛珍珠序：指蛮横，野蛮
