@@ -56,3 +56,61 @@
 	(#) 观看电影《阿Q正传》--1h30m
 	(#) 写博文《翻译乃大道》 --8h
 	(#) 处理crontab无法运行问题 --1h30m
+**2020.01.11**  UESTC Sat
+	(1) 阅读《君主论》 --4h
+	(#) 阅读《政治与文学》 --1h10m
+	(#) 整理18,19年度阅读书单 --2h30m
+	(#) 写博文《UOS系统》和2019年度新闻 --2h30m
+**2020.01.12**  UESTC Sun
+	(1) 川大吃烧烤 --5h
+	(#) 观看电视剧《长安十二时辰》 --13h
+**2020.01.13**  UESTC Mon
+	(1) 教研室聚餐 --2h30m
+	(#) 观看电视剧《长安十二时辰》 --14h
+**2020.01.14**  UESTC Tue
+	(1) 修改《真相》译文 --2h
+	(#) 学习Linux From Scrath  --7h
+	(#) 整理idear.rst为idear.pdf  --55m
+	(#) 观看电视剧《长安十二时辰》 --4h
+	(#) 观看反腐纪录片《国家监察》 --2h
+**2020.01.15**  UESTC Wed
+	(1) 阅读《战争论》 --3h
+	(#) 学习Linux From Scrath  --4h
+	(#) 学习Docbook和Asciidoc文档格式  --8h30m
+**2020.01.16**  UESTC Thu
+	(1) 整理颜文字符号  --2h30m
+	(#) 了解vim插件制作知识  --2h
+	(#) 学习Asciidoc文档格式  --4h30m
+	(#) 处理开源项目的README文件 --2h
+**2020.01.17**  UESTC Fri
+	(1) 整理Linux课程的教案 --1h20m
+	(#) 写vim插件项目的README --1h
+	(#) 整理Vimium快捷键使用 --1h44m
+	(#) 处理开源项目的README文件 --2h50m
+**2020.01.18**  UESTC Sat
+	(1) 阅读《战争论》 --50m
+	(#) 学习man手册页编写和简繁体转换 --2h7m
+	(#) 处理gitee和github图片插入问题 --50m
+	(#) 阅读markdown-preview.nvim源码 --4h35m
+	(#) 下载安装Asciidoc和markdown的pdf转换器 --2h30m
+**2020.01.19**  UESTC Sun
+	(1) 学习vim使用指南 --3h
+	(#) 观看《阿甘正传》 --2h19m
+	(#) 学习vimL脚本编程 --4h
+	(#) 处理vimL编程语言指北 --5h45m
+**2020.01.20**  UESTC Mon
+	(1) 学习vim使用指南 --9h30m
+**2020.01.21**  UESTC Tue
+	(1) 学习vim使用指南 --7h
+**2020.01.22**  UESTC Wed
+	(1) 修改markdown-preview插件为asciidoc-preview插件 --7h
+**2020.01.23**  UESTC Thu
+	(1) 录制视频并上传B站。 --11h
+	(#) 修改asciidoc-preview插件的文档，保存vimL插件到gitee和github --2h
+**2020.01.24**  UESTC Fri
+	(1) 同白景瑞微信通话 --1h
+	(#) 观看《孔子》舞剧 --1h30m
+	(#) 剪辑《孔子》舞剧 --3h
+	(#) 修改asciidoc-preview插件 --1h
+	(#) 写博文《回首猪年，展望鼠年》--1h
+	(#) 修改asciidoc-preview插件的文档 --4h
