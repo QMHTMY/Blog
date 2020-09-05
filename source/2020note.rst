@@ -1046,5 +1046,38 @@
 	(1) 学习Rust  --12h30m
 **2020.08.28**  UESTC Fri
 	(1) 学习Rust  --3h
-	(2) 学习TiDB  --9h
-	(#) etmt: 0 work: 12
+**2020.08.29**  UESTC Sat
+	(1) 学习TiDB  --12h30m
+**2020.08.30**  UESTC Sun
+	(1) 学习TiDB  --5h
+	(2) 整理知识点  --3h
+	(3) 学习知识图谱 --3h
+**2020.08.31**  UESTC Mon
+	(1) 学习IPFS --4h30m
+	(2) 学习Kafka --2h
+	(3) 学习Docker --2h
+**2020.09.01**  UESTC Tue
+	(1) 阅读《DevOps实践》 --1h
+	(2) 参加拼多多校招机考 --2h
+	(3) 学习RocksDB/运维工具 --4h
+	(4) 学习性能Go/Rust/Linux分析 --2h
+**2020.09.02**  UESTC Wed
+	(1) 看剑指offer --3h30m
+	(2) 整理Python算法 --1h
+	(3) 整理Go数据结构 --2h
+	(4) 看视频《想做个教育家的Klaus》--3h30m
+**2020.09.03**  UESTC Thu
+	(1) 看剑指offer --3h
+	(2) 整理Go数据结构 --1h
+	(2) 学习Kubernetes/Linux-distro --6h
+**2020.09.04**  UESTC Fri
+	(1) 看剑指offer --10h
+	(2) 整理Go数据结构 --2h
+**2020.09.05**  UESTC Sat
+	(1) 看剑指offer --3h
+	(2) 阅读《政府论》 --2h
+	(3) 阅读《反脆弱》 --1h
+	(4) 阅读《任正非文集》 --3h
+	(5) 阅读《科学革命的结构》 --2h
+	(6) 阅读《超级符号就是超级创意》 --2h30m
+	(#) etmt: 0 work: 13.5
