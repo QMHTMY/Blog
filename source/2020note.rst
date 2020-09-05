@@ -1069,7 +1069,7 @@
 **2020.09.03**  UESTC Thu
 	(1) 看剑指offer --3h
 	(2) 整理Go数据结构 --1h
-	(2) 学习Kubernetes/Linux-distro --6h
+	(3) 学习Kubernetes/Linux-distro --6h
 **2020.09.04**  UESTC Fri
 	(1) 看剑指offer --10h
 	(2) 整理Go数据结构 --2h
