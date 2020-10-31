@@ -1238,7 +1238,7 @@
 	(3) 阅读《政治秩序的起源》 --20m
 	(4) 阅读《介绍我自己的思想》 --1h30m
 	(5) 阅读《Kubernetes进阶实战》 --1h
-	(5) 阅读《Kubernetes in action》 --2h30m
+	(6) 阅读《Kubernetes in action》 --2h30m
 **2020.10.19**  UESTC Mon
 	(1) 参加新华3笔试 --1h30m
 	(2) 看面试和笔试题 --6h
