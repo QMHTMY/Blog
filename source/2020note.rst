@@ -1281,4 +1281,129 @@
 	(1) 学习研究Go --1h
 	(2) 看电视剧《龙门镖局》 --5h
 	(3) 学习研究对象存储minio --3h
-	(#) etmt: 3 work: 6
+**2020.10.31**  UESTC Sat
+	(1) 整理月度数据 --2h20m
+	(2) 看电视剧《龙门镖局》 --3h
+	(3) 写Mydumper2oss代码 --4h30m
+	(4) 支部活动，打羽毛球 --1h30m
+**2020.11.01**  UESTC Sun
+	(1) 写Mydumper2oss代码 --6h30m
+	(2) 看电视剧《龙门镖局》 --5h
+**2020.11.02**  UESTC Mon
+	(1) 写Mydumper2oss代码 --10h
+	(2) 看电视剧《龙门镖局》 --3h
+**2020.11.03**  UESTC Tue
+	(1) 阅读《声律启蒙》--1h
+	(2) 写Mydumper2oss代码 --11h30m
+**2020.11.04**  UESTC Wed
+	(1) 整理各语言关键字 --2h
+	(2) 看go和rust知识点 --3h
+	(3) 复习算法，准备面试 --5h
+	(4) 阅读《论美国的民主》--1h
+**2020.11.05**  UESTC Thu
+	(1) 看go和rust知识点 --8h
+	(2) 阅读《微服务架构设计模式》--1h30
+**2020.11.06**  UESTC Fri
+	(1) 6G论文阅读 --3h
+	(2) 阅读《微服务架构设计模式》--2h30m
+	(3) 写博客《c/python/go/rust/dart程序结构》--3h
+	(4) 写博客《c/python/go/rust/dart语言历史》--3h
+	(5) 写博客《c/python/go/rust/dart关键字总结》--1h
+**2020.11.07**  UESTC Sat
+	(1) 阅读《硬球》--30m
+	(2) 陪李捷游览电科 --3h
+	(3) 写博客《c/python/go/rust/dart基础》--2h
+	(4) 写博客《c/python/go/rust/dart运算符》--2h
+	(5) 写博客《c/python/go/rust/dart数据类型》--2h
+**2020.11.08**  UESTC Sun
+	(1) 阅读《硬球》--3h
+	(2) 写博客《c/python/go/rust/dart常量变量》--4h
+	(3) 写博客《c/python/go/rust/dart控制原语》--3h
+**2020.11.09**  UESTC Mon
+	(1) 写博客《c/python/go/rust/dart函数》--2h
+	(2) 写博客《c/python/go/rust/dart作用域》--2h
+	(3) 写博客《c/python/go/rust/dart面向过程和对象》--4h
+**2020.11.10**  UESTC Tue
+	(1) 准备参与面试 --2h
+	(2) 参加Rust会议 --1h
+	(3) 写博客《c/python/go/rust/dart异常处理》--3h
+	(4) 写博客《c/python/go/rust/dart内置函数》--3h
+**2020.11.11**  UESTC Wen
+	(1) 黄元师兄请客，吃烤全羊 --3h
+	(2) 写博客《c/python/go/rust/dart包、库、模块》--2h
+	(3) 写博客《c/python/go/rust/dart标准库依赖关系》--2h
+	(4) 写博客《c/python/go/rust/dart的IO和File读写》--2h
+	(5) 写博客《c/python/go/rust/dart正则表达式》--2h
+	(6) 写博客《c/python/go/rust/dart日期和时间》--1h0m
+	(7) 写博客《c/python/go/rust/dart网络编程》--1h
+	(8) 写博客《c/python/go/rust/dart数据库连接》--1h
+**2020.11.12**  UESTC Thu
+	(1) 看电视剧《武林外传》--3h
+	(2) 写博客《c/python/go/rust/dart源码阅读》--3h
+	(3) 写博客《c/python/go/rust/dart多线程协程》--2h
+	(4) 写博客《c/python/go/rust/dart数据序列化》--1h30m
+	(5) 写博客《c/python/go/rust/dart同步异步编程》--1h
+	(6) 写博客《c/python/go/rust/dart实现十大排序算法》--3h
+**2020.11.13**  UESTC Fri
+	(1) 写博客《c/python/go/rust/dart实现十大排序算法》--11h
+**2020.11.14**  UESTC Sat
+	(1) 学习Dart --2h
+	(2) 学习边缘计算知识 --3h
+	(3) 学习Go和数据库知识 --7h
+**2020.11.15**  UESTC Sun
+	(1) 学习Go --2h30m
+	(2) 学习Dart --2h30m
+	(3) 阅读《技术雷达》 --4h
+	(4) 写博客《c/python/go/rust/dart实现十大排序和搜索算法》--2h
+**2020.11.16**  UESTC Mon
+	(1) 开会 --2h
+	(2) 学习Go及阅读左耳听风 --12h
+**2020.11.17**  UESTC Tue
+	(1) 参与网易面试 --2h
+	(2) 阅读左耳听风 --3h
+**2020.11.18**  UESTC Wed
+	(1) 准备三方等协议 --4h
+**2020.11.19**  UESTC Thu
+	(1) 参加体检 --3h
+	(2) 阅读《MySQL实战45讲》--6h30m
+**2020.11.20**  UESTC Fri
+	(1) 小米面试 --1h
+	(2) 取体检报告 --3h
+	(3) 阅读《数据结构和算法之美》--2h
+**2020.11.21**  UESTC Sat
+	(1) 参加DevOps大会 --8h
+**2020.11.22**  UESTC Sun
+	(1) 阅读《论美国的民主》--2h
+	(2) 阅读《数据结构和算法之美》--7h30m
+**2020.11.23**  UESTC Mon
+	(1) 参加组会 --2h
+	(2) 下载极客时间课程 --2h
+	(3) 参加小米面试和测评 --2h
+	(4) 阅读《白话法律42讲》--3h
+**2020.11.24**  UESTC Tue
+	(1) 处理毁约申请书 --4h
+	(2) 更新博文《UOS系统》--2h
+	(3) 写密码生成器PasswdMake --2h
+	(4) 翻译go语言官网正文security.html --1h30m
+**2020.11.25**  UESTC Wed
+	(1) 同小米签约 --2h
+	(2) 阅读《论美国的民主》--3h
+**2020.11.26**  UESTC Thu
+	(1) 阅读《第二性》--3h
+	(2) 翻译标准库unsafe包 --6h
+	(3) 阅读《趣谈网络协议》--4h30m
+**2020.11.27**  UESTC Fri
+	(1) 阅读《趣谈网络协议》--2h
+	(2) 阅读《极客时间人工智能》--3h
+	(3) 阅读《极客时间,测试,数据分析,推荐系统》--5h
+**2020.11.28**  UESTC Sat
+	(1) 阅读《极客时间人工智能》--7h30m
+**2020.11.29**  UESTC Sun
+	(1) 学习了解C++ --4h
+	(2) 翻译标准库builtin包 --3h30m
+	(3) 翻译标准库expvar和plugin包 --3h30m
+**2020.11.30**  UESTC Mon
+	(1) 做组会PPT --1h30m
+	(2) 整理月度统计文档 --4h
+	(3) 翻译标准库unicode包 --6h
+	(#) etmt: 0 work: 11.5
